@@ -7,6 +7,8 @@ const object =()=>{
         age: 25
     }
     console.log(properties.age);
+    properties['age'] = 30;
+    console.log(properties.age);
 }
 
 object();
