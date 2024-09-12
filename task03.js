@@ -17,3 +17,11 @@ const results = object(prop);
 console.log(results);
 
 
+
+//     const results = object({
+//         name: 'Video',
+//         gender: 'male',
+//         age: 25
+//     });
+//     console.log(results);
+
